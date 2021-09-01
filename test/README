@@ -1,0 +1,11 @@
+file: project3/test/README
+author: Caleb M. McLaren
+email: mclaren1@umbc.edu
+date: April 15, 2021
+description: this readme must provide a description of the test files inside 
+	projec3/test. 
+	
+Reversi-program.c is provided by Lawrence Sebald as a basic application 
+interacating with character driver reversi.c developed for project3. 
+
+
