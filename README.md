@@ -1,15 +1,15 @@
-File: README
-Author: Caleb M. McLaren
-email: mclaren1@umbc.edu
-date: April 27th, 2021
-Description: this readme must provide a directory to project 3. 
+File: README<br>
+Author: Caleb M. McLaren<br>
+email: mclaren1@umbc.edu<br>
+date: April 27th, 2021<br>
+Description: this readme must provide a directory to project 3.<br>
 
-Project Design: see final.pdf
-Project Tester: see reversi-program.c in test.
-    Unmodified. 
-Project implementation: module/reversi.c
-Project Makefile : module/Makefile. 
-    Commands: "make", "make all", "make clean"
+Project Design: see final.pdf<br>
+Project Tester: see reversi-program.c in test.<br>
+    Unmodified. <br>
+Project implementation: module/reversi.c<br>
+Project Makefile : module/Makefile. <br>
+    Commands: "make", "make all", "make clean"<br>
 
 Project Citations:
 
